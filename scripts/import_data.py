@@ -1,0 +1,2 @@
+data = pd.read_csv(r"C:\Users\Marcello Soares\OneDrive - Universidade do Estado do Rio de Janeiro\Documentos\Marcello\workspace\Brazil-Forest-Fires-Analysis\data\amazon.csv", encoding='latin1')
+data.head(5)
